@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidKotlin</string>
+
+    <string name="kotlinBtn">Kotlin Calculator</string>
+    <string name="JavaBtn">Java Calculator</string>
+    <string name="CalculateBtn">=</string>
+    <string name="DefaultResult">Enter values to start</string>
+
+    <string name="JavaCalculator">Simple Java Calculator</string>
+    <string name="KotlinCalculator">Simple Kotlin Calculator</string>
+
+    <string-array name="operatorsList">
+        <item>+</item>
+        <item>-</item>
+        <item>x</item>
+        <item>/</item>
+    </string-array>
+</resources>
